@@ -78,11 +78,11 @@ npm run dev
 
 ## 👤 About Me
 
-Hi! I'm **Jhansi Challa**, a software developer passionate about building impactful web applications.  
+Hi! I'm **Pooja Challa**, a passionate Computer Science student who loves turning ideas into interactive web projects. I enjoy solving real-world problems through clean code, smart design, and continuous learning. Currently exploring the world of software development, data science, and everything in between! 
 This project was created to simplify tax and policy awareness for everyday Indian citizens using modern AI.
 
-- 💼 LinkedIn: [linkedin.com/in/jhansi-challa](https://linkedin.com/in/jhansi-challa)
-- 📧 Email: jhansichalla26@gmail.com
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/challa-pooja/)
+- 📧 Email: poojachalla2002@gmail.com
 
 ---
 
